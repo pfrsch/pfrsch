@@ -1,33 +1,8 @@
 <img width="35%" align="right" src="img\octovii.png" />
 
 Hello, world! 
-<p> I am a Computer Engineering undergraduate student. With a multidisciplinary background in arts, design and administration, I am currently focusing on developing both technical and interpersonal skills for the tech industry
+<p> I am a Computer Engineering student passionate about merging technology and creativity. With a diverse background in arts, design, and administration, I am always looking for innovative and disruptive ways to solve problems and create impactful solutions.
 
-<!----
-
-```javascript
-const V = {
-  pronouns: ["she" | "her"],
-  location: "São Paulo, Brazil",
-  languages: ["Portuguese", "English", "Français",]
-
-  
-  code: [Javascript, Typescript, Python, C++, Java, Go],
-  tools: [React, Redux, Node, Express.js, DJango, Flask,
-          Jest, MySQL, MongoDB,  Docker],
-  architecture: ["microservices", "event-driven", "design system"],
- 
-  interests: ["arts", "retro & high-technology ", "space", "games", "pets"],
-  hobbies: ["playing guitar", "learning new languages", "traveling"],
-
-techCommunities: {
-                        Embassador: "Women Techmakers - Google ",
-                        Member:  "GDG - Google Developer Groups",
-                                 "Women Techmakers", "PyLadies", 
-                                 "Tech Ladies", "Django Girls",
-                      },
-}
-```
 
 <!--badges--->
 
@@ -149,10 +124,6 @@ techCommunities: {
 </div>
 
 ###
-
-
-
-
 
 
 </div>
