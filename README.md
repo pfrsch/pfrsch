@@ -4,7 +4,7 @@
 <p> I am a Computer Engineering student passionate about merging technology and creativity. With a diverse background in arts, design, and administration, I am always looking for innovative and disruptive ways to solve problems and create impactful solutions.
 
 <ul>🎯 I'm currently learning
- <p> 💻 STEM, Front-End development, Linguistic and cultural diversity.</p>
+ <p> STEM, Front-End development, Linguistic and cultural diversity.</p>
 </ul>
 <p></p>
 
@@ -77,7 +77,14 @@
 <div align="left">
   
   [![wakatime](https://wakatime.com/badge/user/6d6db147-2dcb-4258-9a9c-df9f3613a25a.svg?style=for-the-badge)](https://wakatime.com/@6d6db147-2dcb-4258-9a9c-df9f3613a25a)
-  
+  <!--design-->
+  <img src="https://img.shields.io/badge/Figma-d66a6a?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/Framer-212223?logo=framer&logoColor=white&style=for-the-badge" height="25" alt="framer logo"  />
+  <img src="https://img.shields.io/badge/Illustrator-b74a09?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="25" alt="adobeillustrator logo"  />
+  <img src="https://img.shields.io/badge/Photoshop-063970?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="25" alt="adobephotoshop logo"  />
+  <img src="https://img.shields.io/badge/Canva-4D8EA6?logo=canva&logoColor=black&style=for-the-badge" height="25" alt="canva logo"  />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="25" alt="blender logo"  />
+  <!--dev-->
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25" alt="cplusplus logo"  />
  
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
@@ -89,25 +96,28 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
  
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
- 
+ <!---
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
  
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="25" alt="redux logo"  />
  
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
- 
+  --->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
- 
+
+  <!---
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="25" alt="flask logo"  />
- 
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="25" alt="jupyter logo"  />
- 
+  
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="25" alt="django logo"  />
+ --->
+  
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="25" alt="jupyter logo"  />
+
  
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="25" alt="postman logo"  />
  
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
- 
+  <!---
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
  
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="25" alt="spring logo"  />
@@ -119,7 +129,12 @@
   <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="25" alt="apache logo"  />
  
   <img src="https://img.shields.io/badge/Apache Cassandra-1287B1?logo=apachecassandra&logoColor=white&style=for-the-badge" height="25" alt="apachecassandra logo"  />
- 
+ --->
+  
+   <img src="https://img.shields.io/badge/Vite-CB365E?logo=vite&logoColor=white&style=for-the-badge" height="25" alt="vite logo"  />
+  
+   <img src="https://img.shields.io/badge/glitch-742d81.svg?style=for-the-badge&logo=glitch&logoColor=white)" height="25" alt="css3 logo"  />
+  
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="25" alt="jest logo"  />
  
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="25" alt="googlecloud logo"  />
