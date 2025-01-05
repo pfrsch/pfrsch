@@ -3,7 +3,7 @@
 <h3>Hello, world! </h3>
 <p> I am a Computer Engineering student passionate about merging technology and creativity. With a diverse background in arts, design, and administration, I am always looking for innovative and disruptive ways to solve problems and create impactful solutions.
 
-<ul>🎯 I'm currently learning about 
+<ul>🎯 I'm currently learning
  <p> 💻 STEM, Front-End development, Linguistic and cultural diversity.</p>
 </ul>
 <p></p>
