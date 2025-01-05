@@ -1,14 +1,18 @@
 <img width="35%" align="right" src="img\octovii.png" />
 
-Hello, world! 
+<h3>Hello, world! </h3>
 <p> I am a Computer Engineering student passionate about merging technology and creativity. With a diverse background in arts, design, and administration, I am always looking for innovative and disruptive ways to solve problems and create impactful solutions.
 
+<ul>🎯 I'm currently learning about 
+ <p> 💻 STEM, Front-End development, Linguistic and cultural diversity.</p>
+</ul>
+<p></p>
 
 <!--badges--->
-
+<!--
 <div align="left">
 <p align="center"> </p>
-<p align="left">🔧 Tools and languages I've used in projects:</p>
+<h3 align="left">🔧 Tools and languages I've used in projects:</h3>
 
 ###
 
@@ -63,10 +67,10 @@ Hello, world!
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="23" alt="redis logo"  />
 </div>
-
+--->
 ###
 
-<p align="left">💻 My main tech stack:</p>
+<h3 align="left">💻 My main tech stack:</h3>
 
 ###
 
