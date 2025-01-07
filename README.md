@@ -4,7 +4,7 @@
 <p> I am a Computer Engineering student passionate about merging technology and creativity. With a diverse background in arts, design, and administration, I am always looking for innovative and disruptive ways to solve problems and create impactful solutions.
 
 <ul>🎯 I'm currently learning
- <p> STEM, Front-End development, Linguistic and cultural diversity.</p>
+ <p> STEM, Web development, Linguistic and cultural diversity.</p>
 </ul>
 <p></p>
 
@@ -75,7 +75,7 @@
 ###
 
 <div align="left">
-  
+  <!---
   [![wakatime](https://wakatime.com/badge/user/6d6db147-2dcb-4258-9a9c-df9f3613a25a.svg?style=for-the-badge)](https://wakatime.com/@6d6db147-2dcb-4258-9a9c-df9f3613a25a)
   <!--design-->
   <img src="https://img.shields.io/badge/Figma-d66a6a?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
@@ -187,9 +187,11 @@
   </a>
 </div>
 
-
-
+ 
 <!-- snake -->
 <img src="https://raw.githubusercontent.com/pfrsch/pfrsch/output/snake.svg" alt="Snake animation" />
+
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N615P2ZZ)
+
 
 ###
