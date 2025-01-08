@@ -1,7 +1,7 @@
 <img width="35%" align="right" src="img\octovii.png" />
 
 <h3>Hello, world! </h3>
-<p> I am a Computer Engineering student passionate about merging technology and creativity. With a diverse background in arts, design, and administration, I am always looking for innovative and disruptive ways to solve problems and create impactful solutions.
+<p> I am a Computer Engineering student passionate about merging technology and creativity. With a diverse background in arts, design, and administration, I am always looking for innovative and disruptive ways to solve problems and create solutions.
 
 <ul>🎯 I'm currently learning
  <p> STEM, Web development and Linguistic.</p>
