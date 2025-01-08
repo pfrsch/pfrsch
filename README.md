@@ -80,6 +80,7 @@
   <!--design-->
   <img src="https://img.shields.io/badge/Figma-d66a6a?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
   <img src="https://img.shields.io/badge/Framer-212223?logo=framer&logoColor=white&style=for-the-badge" height="25" alt="framer logo"  />
+  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" height="25"/>
   <img src="https://img.shields.io/badge/Illustrator-b74a09?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="25" alt="adobeillustrator logo"  />
   <img src="https://img.shields.io/badge/Photoshop-063970?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="25" alt="adobephotoshop logo"  />
   <img src="https://img.shields.io/badge/Canva-4D8EA6?logo=canva&logoColor=black&style=for-the-badge" height="25" alt="canva logo"  />
@@ -133,7 +134,9 @@
   
    <img src="https://img.shields.io/badge/Vite-CB365E?logo=vite&logoColor=white&style=for-the-badge" height="25" alt="vite logo"  />
   
-   <img src="https://img.shields.io/badge/glitch-742d81.svg?style=for-the-badge&logo=glitch&logoColor=white)" height="25" alt="css3 logo"  />
+   <img src="https://img.shields.io/badge/glitch-742d81.svg?style=for-the-badge&logo=glitch&logoColor=white)" height="25" alt="glitch logo"  />
+
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="25"/>
   
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="25" alt="jest logo"  />
  
@@ -191,7 +194,8 @@
 <!-- snake -->
 <img src="https://raw.githubusercontent.com/pfrsch/pfrsch/output/snake.svg" alt="Snake animation" />
 
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N615P2ZZ)
-
+[![Github Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/pfrsch)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/victciv)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/victciv)
 
 ###
