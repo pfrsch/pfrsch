@@ -8,6 +8,37 @@
 </ul>
 <p></p>
 
+## 🚀 Service Platform Project
+
+A full-stack service connection platform built with Node.js, Express, PostgreSQL, and React. This project connects service providers with clients through an intuitive booking system.
+
+### Key Features
+- 🏢 Company profile management with customizable themes
+- 👥 Employee management with application approval workflow  
+- 🔍 Search professionals by specialty tags
+- 📅 Calendar-based appointment booking with conflict detection
+- ⭐ Review and rating system
+
+### Quick Start
+
+```bash
+# Backend setup
+cd backend
+npm install
+npm run migrate
+npm run seed
+npm run dev
+
+# Frontend setup (in another terminal)
+cd frontend
+npm install
+npm run dev
+```
+
+📚 **[View Full Documentation](./docs/README.md)**
+
+---
+
 <!--badges--->
 <!--
 <div align="left">
