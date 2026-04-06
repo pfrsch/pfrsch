@@ -1,9 +1,11 @@
-<img width="35%" align="right" src="img\octovii.png" />
+<img width="30%" align="right" src="img/octovii.png" />
 
 <h3>Hello, world! </h3>
-<p> shhhh... 
+<p> 💻📡🚀 I am an Engineering student, s.t.e.m, geek, and retro & high-tech enthusiast, as well as a music artist and producer. I work as a freelance graphic designer and am currently focused on Power BI, data analysis, <b>project management</b>. 
+In my free time, I do oracle readings 🔮🌙.
+ 
 <ul>🎯 I'm currently learning
- <p> STEM, Web development and Linguistic.</p>
+ <p> STEM, Power BI and Linguistic.</p>
 </ul>
 <p></p>
 
@@ -69,7 +71,7 @@
 --->
 ###
 
-<h3 align="left">💻 My main tech stack:</h3>
+<h3 align="left">💻 Technologies :</h3>
 
 ###
 
@@ -117,24 +119,15 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="25" alt="postman logo"  />
  
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
-  <!---
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
+
+   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
  
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="25" alt="spring logo"  />
  
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
- 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="25" alt="jenkins logo"  />
- 
-  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="25" alt="apache logo"  />
- 
-  <img src="https://img.shields.io/badge/Apache Cassandra-1287B1?logo=apachecassandra&logoColor=white&style=for-the-badge" height="25" alt="apachecassandra logo"  />
- --->
-  
-   <img src="https://img.shields.io/badge/Vite-CB365E?logo=vite&logoColor=white&style=for-the-badge" height="25" alt="vite logo"  />
-  
-   <img src="https://img.shields.io/badge/glitch-742d81.svg?style=for-the-badge&logo=glitch&logoColor=white)" height="25" alt="glitch logo"  />
 
+
+  
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="25"/>
   
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="25" alt="jest logo"  />
@@ -142,6 +135,23 @@
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="25" alt="googlecloud logo"  />
  
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="25" alt="amazonwebservices logo"  />
+
+   <img src="https://img.shields.io/badge/obsidian-grey.svg?style=for-the-badge&logo=obsidian&logoColor=white)" height="25" alt="obsidian logo"  />  
+   <img src="https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=notion&logoColor=white)" height="25" alt="notion logo"  />
+   
+  <!---
+ 
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="25" alt="jenkins logo"  />
+ 
+  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="25" alt="apache logo"  />
+ 
+  <img src="https://img.shields.io/badge/Apache Cassandra-1287B1?logo=apachecassandra&logoColor=white&style=for-the-badge" height="25" alt="apachecassandra logo"  />
+
+  
+   <img src="https://img.shields.io/badge/Vite-CB365E?logo=vite&logoColor=white&style=for-the-badge" height="25" alt="vite logo"  />
+  
+   <img src="https://img.shields.io/badge/glitch-742d81.svg?style=for-the-badge&logo=glitch&logoColor=white)" height="25" alt="glitch logo"  />  --->
+
 </div>
 
 ###
@@ -196,4 +206,5 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/victciv)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/victciv)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/pfrsch)
+<img src="https://img.shields.io/badge/🔮 oracle_reading-black.svg?style=for-the-badge&logo=heart&logoColor=white)" height="25" alt="glitch logo"  />
 ###
