@@ -1,8 +1,7 @@
 <img width="35%" align="right" src="img/octovii.png" />
 
 <h3>Hello, world! </h3>
-<p> 💻📡🚀 I am an Engineering student, s.t.e.m, geek, and retro & high-tech enthusiast, as well as a music artist and producer. I work as a freelance graphic designer and am currently focused on Power BI, data analysis, <b>project management</b>. 
-In my free time, I do oracle readings 🔮🌙.
+<p> 💻📡🚀 I am an Engineering student, s.t.e.m, geek, and retro & high-tech enthusiast, as well as a music artist and producer. I work as a freelance graphic designer and am currently focused on Power BI, data analysis, <b>project management</b>. 🔮🌙.
  
 <ul>🎯 I'm currently learning
  <p> STEM, Power BI and Linguistic.</p>
