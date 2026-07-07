@@ -2,8 +2,8 @@
 
 <h3>Hello, world! </h3>
 <p> 💻📡🚀 I am an Engineering student, STEM, geek, and retro & high-tech enthusiast.
-🎨 Artist and music producer.
-💻 Focused on Power BI, data analysis and <b>project management</b> .
+<p>🎨 Artist and music producer.
+<p>💻 Focused on Power BI, data analysis and <b>project management</b> .
  
 <ul>🎯 I'm currently learning:
  <p> STEM, Power BI and Linguistic.</p>
@@ -207,5 +207,5 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/victciv)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/victciv)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/pfrsch)
-[![Oracle](https://img.shields.io/badge/oracle-FF5E5B?logo=🔮&logoColor=white)](https://ko-fi.com/)
+[![Oracle](https://img.shields.io/badge/Oracle--🔮--Readings-black?logo=🔮&logoColor=white)](https://ko-fi.com/)
 ###
