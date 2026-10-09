@@ -207,5 +207,4 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/victciv)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/victciv)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/pfrsch)
-[![Oracle](https://img.shields.io/badge/Oracle--🔮--Readings-black?logo=🔮&logoColor=white)](https://ko-fi.com/)
 ###
