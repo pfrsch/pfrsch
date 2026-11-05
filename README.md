@@ -1,3 +1,4 @@
+<!-- ---------------------------------------------------------------------------
 <img width="35%" align="right" src="img/octovii.png" />
 
 <h3>Hello, world! </h3>
@@ -70,6 +71,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="23" alt="redis logo"  />
 </div>
 --->
+
+<!--
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###
 
 <h3 align="left">💻 Technologies :</h3>
@@ -79,7 +83,8 @@
 <div align="left">
   <!---
   [![wakatime](https://wakatime.com/badge/user/6d6db147-2dcb-4258-9a9c-df9f3613a25a.svg?style=for-the-badge)](https://wakatime.com/@6d6db147-2dcb-4258-9a9c-df9f3613a25a)
-  <!--design-->
+  <!--design
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   <img src="https://img.shields.io/badge/Figma-d66a6a?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
   <img src="https://img.shields.io/badge/Framer-212223?logo=framer&logoColor=white&style=for-the-badge" height="25" alt="framer logo"  />
   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" height="25"/>
@@ -87,7 +92,8 @@
   <img src="https://img.shields.io/badge/Photoshop-063970?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="25" alt="adobephotoshop logo"  />
   <img src="https://img.shields.io/badge/Canva-4D8EA6?logo=canva&logoColor=black&style=for-the-badge" height="25" alt="canva logo"  />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="25" alt="blender logo"  />
-  <!--dev-->
+  <!--dev--
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25" alt="cplusplus logo"  />
  
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
@@ -106,6 +112,7 @@
  
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
   --->
+  <!--
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
 
   <!---
@@ -113,7 +120,8 @@
   
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="25" alt="django logo"  />
  --->
-  
+  <!--
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="25" alt="jupyter logo"  />
 
  
@@ -204,6 +212,7 @@
 <!-- snake -->
 <img src="https://raw.githubusercontent.com/pfrsch/pfrsch/output/snake.svg" alt="Snake animation" />
 
+<!--
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/victciv)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/victciv)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/pfrsch)
